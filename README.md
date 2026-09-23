@@ -16,8 +16,8 @@ HTML5 · CSS3 · JavaScript (vanilla)
 
 ## 📄 Licenca
 
-© 2026 Erion Nezha. Të gjitha të drejtat e rezervuara. Shih [LICENSE](LICENSE).
-> Shënim: koncepti i butonit "No" që i shmanget kursorit është një format popullor meme në internet; implementimi i kodit këtu është origjinal.
+**© 2026 Erion Nezha.** Ky projekt shpërndahet nën licencën MIT — shih [LICENSE](LICENSE).
+> **Shënim:** Formati "pyetje romantike me butonin 'No' që ikën" është një meme/shaka e përhapur në internet — ky version është përshtatur dhe organizuar posaçërisht për këtë faqe.
 
 ---
 
@@ -40,7 +40,7 @@ HTML5 · CSS3 · JavaScript (vanilla)
 
 ## 📄 License
 
-© 2026 Erion Nezha. All rights reserved. See [LICENSE](LICENSE).
-> Note: the dodging "No" button concept is a popular internet meme format; the code implementation here is original.
+**© 2026 Erion Nezha.** This project is distributed under the MIT license — see [LICENSE](LICENSE).
+> **Note:** The "romantic question with a dodging 'No' button" format is a widespread internet meme/joke — this version has been adapted and arranged specifically for this page.
 
 
